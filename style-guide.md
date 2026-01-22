@@ -2,30 +2,17 @@
 
 ## Layout
 
-The designs were created to the following widths:
-
-- Mobile: 375px
-- Desktop: 1440px
-
-> 💡 These are just the design sizes. Ensure content is responsive and meets WCAG requirements by testing the full range of screen sizes from 320px to large screens.
+The card has a max-width of 240px, so it should scale down to most mobile screens. I'm not too up to speed on conventions for screen sizes and responsiveness, but I just designed the site to be, hopefully, clear on mobile and centered so it can scale up to a larger screen.
 
 ## Colors
 
-- White: hsl(0, 0%, 100%)
-
-- Slate 300: hsl(212, 45%, 89%)
+- White: white
+- Light Blue: lightblue
 - Slate 500: hsl(216, 15%, 48%)
 - Slate 900: hsl(218, 44%, 22%)
 
 ## Typography
 
-### Body Copy
-
-- Font size (paragraph): 15px
-
-### Font
-
 - Family: [Outfit](https://fonts.google.com/specimen/Outfit)
 - Weights: 400, 700
-
-> 💎 This is a free+ challenge. So, if you want to see all the design details and practice working with professional tools like Figma, you can download the design file from where you downloaded the starter code.
+- Font size (paragraph): 15px
